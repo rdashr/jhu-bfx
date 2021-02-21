@@ -1,0 +1,265 @@
+                     --- REQUIRED/TESTING COMPARISON ---
+Sequence S1: ACC GGT CGA CTG CGC GGA AGC CGG CCG AA
+Sequence TITLE: THE RAV EN
+Sequence S1 length: 29 bases
+Sequence TITLE length: 9 bases
+Sequences total length: 38 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TA
+LCS length: 2 bases
+Total # Comparisons: 524
+Time Elapsed: 918 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S1: ACC GGT CGA CTG CGC GGA AGC CGG CCG AA
+Sequence L1: ONC E U PON A M IDN IGH T D REA RY, WHI LE I P OND ERE D,  WEA K AND WEA RY
+Sequence S1 length: 29 bases
+Sequence L1 length: 61 bases
+Sequences total length: 90 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: AGTAAAA
+LCS length: 7 bases
+Total # Comparisons: 3680
+Time Elapsed: 4139 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S1: ACC GGT CGA CTG CGC GGA AGC CGG CCG AA
+Sequence L3: "WH ILE I N ODD ED, NEA RLY NAP PIN G,  SUD DEN LY  THE RE  CAM E A TAP PIN G,"
+Sequence S1 length: 29 bases
+Sequence L3 length: 64 bases
+Sequences total length: 93 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: AGTCATAG
+LCS length: 8 bases
+Total # Comparisons: 3795
+Time Elapsed: 3623 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S1: ACC GGT CGA CTG CGC GGA AGC CGG CCG AA
+Sequence L4: ACC CCC CCC CCG CCT CCC ACC CCG CAC CCC GAT CCC CAC CCC CCC C
+Sequence S1 length: 29 bases
+Sequence L4 length: 46 bases
+Sequences total length: 75 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: ACCGTCACCGCACCCCGAA
+LCS length: 19 bases
+Total # Comparisons: 2524
+Time Elapsed: 2774 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S1: ACC GGT CGA CTG CGC GGA AGC CGG CCG AA
+Sequence L5: "'T IS  SOM E V ISI TOR ," I M UTT ERE D,  "TA PPI NG AT MY  CHA MBE R D OOR --
+Sequence S1 length: 29 bases
+Sequence L5 length: 62 bases
+Sequences total length: 91 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: AGATCA
+LCS length: 6 bases
+Total # Comparisons: 3706
+Time Elapsed: 3435 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S1: ACC GGT CGA CTG CGC GGA AGC CGG CCG AA
+Sequence L7: ONL Y T HIS AND NOT HIN G M ORE ."
+Sequence S1 length: 29 bases
+Sequence L7 length: 28 bases
+Sequences total length: 57 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TATG
+LCS length: 4 bases
+Total # Comparisons: 1656
+Time Elapsed: 1891 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S2: GTC GTT CGG AAT GCC GTT GCT CTG TAA A
+Sequence TITLE: THE RAV EN
+Sequence S2 length: 28 bases
+Sequence TITLE length: 9 bases
+Sequences total length: 37 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TA
+LCS length: 2 bases
+Total # Comparisons: 501
+Time Elapsed: 609 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S2: GTC GTT CGG AAT GCC GTT GCT CTG TAA A
+Sequence L1: ONC E U PON A M IDN IGH T D REA RY, WHI LE I P OND ERE D,  WEA K AND WEA RY
+Sequence S2 length: 28 bases
+Sequence L1 length: 61 bases
+Sequences total length: 89 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: CGTAAAA
+LCS length: 7 bases
+Total # Comparisons: 3601
+Time Elapsed: 3149 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S2: GTC GTT CGG AAT GCC GTT GCT CTG TAA A
+Sequence L3: "WH ILE I N ODD ED, NEA RLY NAP PIN G,  SUD DEN LY  THE RE  CAM E A TAP PIN G,"
+Sequence S2 length: 28 bases
+Sequence L3 length: 64 bases
+Sequences total length: 92 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: AAGTCAAA
+LCS length: 8 bases
+Total # Comparisons: 3682
+Time Elapsed: 3357 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S2: GTC GTT CGG AAT GCC GTT GCT CTG TAA A
+Sequence L4: ACC CCC CCC CCG CCT CCC ACC CCG CAC CCC GAT CCC CAC CCC CCC C
+Sequence S2 length: 28 bases
+Sequence L4 length: 46 bases
+Sequences total length: 74 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: GTCGCGATCCCCA
+LCS length: 13 bases
+Total # Comparisons: 2482
+Time Elapsed: 2273 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S2: GTC GTT CGG AAT GCC GTT GCT CTG TAA A
+Sequence L5: "'T IS  SOM E V ISI TOR ," I M UTT ERE D,  "TA PPI NG AT MY  CHA MBE R D OOR --
+Sequence S2 length: 28 bases
+Sequence L5 length: 62 bases
+Sequences total length: 90 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TTTTTGTCA
+LCS length: 9 bases
+Total # Comparisons: 3635
+Time Elapsed: 3324 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S2: GTC GTT CGG AAT GCC GTT GCT CTG TAA A
+Sequence L7: ONL Y T HIS AND NOT HIN G M ORE ."
+Sequence S2 length: 28 bases
+Sequence L7 length: 28 bases
+Sequences total length: 56 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TATG
+LCS length: 4 bases
+Total # Comparisons: 1589
+Time Elapsed: 1687 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S3: ATT GCA TTG CAT GGG CGC GAT GCA TTT GGT TAA TTC CTC G
+Sequence TITLE: THE RAV EN
+Sequence S3 length: 40 bases
+Sequence TITLE length: 9 bases
+Sequences total length: 49 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TA
+LCS length: 2 bases
+Total # Comparisons: 709
+Time Elapsed: 782 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S3: ATT GCA TTG CAT GGG CGC GAT GCA TTT GGT TAA TTC CTC G
+Sequence L1: ONC E U PON A M IDN IGH T D REA RY, WHI LE I P OND ERE D,  WEA K AND WEA RY
+Sequence S3 length: 40 bases
+Sequence L1 length: 61 bases
+Sequences total length: 101 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: CAGTAAAA
+LCS length: 8 bases
+Total # Comparisons: 5039
+Time Elapsed: 4528 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S3: ATT GCA TTG CAT GGG CGC GAT GCA TTT GGT TAA TTC CTC G
+Sequence L3: "WH ILE I N ODD ED, NEA RLY NAP PIN G,  SUD DEN LY  THE RE  CAM E A TAP PIN G,"
+Sequence S3 length: 40 bases
+Sequence L3 length: 64 bases
+Sequences total length: 104 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: AAGTCAATAG
+LCS length: 10 bases
+Total # Comparisons: 5191
+Time Elapsed: 4685 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S3: ATT GCA TTG CAT GGG CGC GAT GCA TTT GGT TAA TTC CTC G
+Sequence L4: ACC CCC CCC CCG CCT CCC ACC CCG CAC CCC GAT CCC CAC CCC CCC C
+Sequence S3 length: 40 bases
+Sequence L4 length: 46 bases
+Sequences total length: 86 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: ATCAGCACCGATCACCC
+LCS length: 17 bases
+Total # Comparisons: 3542
+Time Elapsed: 3238 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S3: ATT GCA TTG CAT GGG CGC GAT GCA TTT GGT TAA TTC CTC G
+Sequence L5: "'T IS  SOM E V ISI TOR ," I M UTT ERE D,  "TA PPI NG AT MY  CHA MBE R D OOR --
+Sequence S3 length: 40 bases
+Sequence L5 length: 62 bases
+Sequences total length: 102 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TTTTAGATCA
+LCS length: 10 bases
+Total # Comparisons: 5103
+Time Elapsed: 5152 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S3: ATT GCA TTG CAT GGG CGC GAT GCA TTT GGT TAA TTC CTC G
+Sequence L7: ONL Y T HIS AND NOT HIN G M ORE ."
+Sequence S3 length: 40 bases
+Sequence L7 length: 28 bases
+Sequences total length: 68 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TATG
+LCS length: 4 bases
+Total # Comparisons: 2248
+Time Elapsed: 2208 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S4: CTT GCT TAA ATG TGC A
+Sequence TITLE: THE RAV EN
+Sequence S4 length: 16 bases
+Sequence TITLE length: 9 bases
+Sequences total length: 25 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TA
+LCS length: 2 bases
+Total # Comparisons: 289
+Time Elapsed: 295 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S4: CTT GCT TAA ATG TGC A
+Sequence L1: ONC E U PON A M IDN IGH T D REA RY, WHI LE I P OND ERE D,  WEA K AND WEA RY
+Sequence S4 length: 16 bases
+Sequence L1 length: 61 bases
+Sequences total length: 77 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: CGTAAAA
+LCS length: 7 bases
+Total # Comparisons: 2147
+Time Elapsed: 1799 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S4: CTT GCT TAA ATG TGC A
+Sequence L3: "WH ILE I N ODD ED, NEA RLY NAP PIN G,  SUD DEN LY  THE RE  CAM E A TAP PIN G,"
+Sequence S4 length: 16 bases
+Sequence L3 length: 64 bases
+Sequences total length: 80 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TCAAAG
+LCS length: 6 bases
+Total # Comparisons: 2153
+Time Elapsed: 1891 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S4: CTT GCT TAA ATG TGC A
+Sequence L4: ACC CCC CCC CCG CCT CCC ACC CCG CAC CCC GAT CCC CAC CCC CCC C
+Sequence S4 length: 16 bases
+Sequence L4 length: 46 bases
+Sequences total length: 62 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: CGCTAAATCA
+LCS length: 10 bases
+Total # Comparisons: 1484
+Time Elapsed: 1325 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S4: CTT GCT TAA ATG TGC A
+Sequence L5: "'T IS  SOM E V ISI TOR ," I M UTT ERE D,  "TA PPI NG AT MY  CHA MBE R D OOR --
+Sequence S4 length: 16 bases
+Sequence L5 length: 62 bases
+Sequences total length: 78 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TTTTAATCA
+LCS length: 9 bases
+Total # Comparisons: 2178
+Time Elapsed: 1833 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S4: CTT GCT TAA ATG TGC A
+Sequence L7: ONL Y T HIS AND NOT HIN G M ORE ."
+Sequence S4 length: 16 bases
+Sequence L7 length: 28 bases
+Sequences total length: 44 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TATG
+LCS length: 4 bases
+Total # Comparisons: 931
+Time Elapsed: 842 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

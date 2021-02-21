@@ -1,0 +1,67 @@
+                     --- REQUIRED INPUT COMPARISON ---
+Sequence S1: ACC GGT CGA CTG CGC GGA AGC CGG CCG AA
+Sequence S2: GTC GTT CGG AAT GCC GTT GCT CTG TAA A
+Sequence S1 length: 29 bases
+Sequence S2 length: 28 bases
+Sequences total length: 57 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: GTCGTCGGAAGCCGGCCGAA
+LCS length: 20 bases
+Total # Comparisons: 1631
+Time Elapsed: 1653 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S1: ACC GGT CGA CTG CGC GGA AGC CGG CCG AA
+Sequence S3: ATT GCA TTG CAT GGG CGC GAT GCA TTT GGT TAA TTC CTC G
+Sequence S1 length: 29 bases
+Sequence S3 length: 40 bases
+Sequences total length: 69 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: ACCGGCGATGCGGAACCCG
+LCS length: 19 bases
+Total # Comparisons: 2358
+Time Elapsed: 2612 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S1: ACC GGT CGA CTG CGC GGA AGC CGG CCG AA
+Sequence S4: CTT GCT TAA ATG TGC A
+Sequence S1 length: 29 bases
+Sequence S4 length: 16 bases
+Sequences total length: 45 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: CTGCTAAGGCA
+LCS length: 11 bases
+Total # Comparisons: 875
+Time Elapsed: 1022 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S2: GTC GTT CGG AAT GCC GTT GCT CTG TAA A
+Sequence S3: ATT GCA TTG CAT GGG CGC GAT GCA TTT GGT TAA TTC CTC G
+Sequence S2 length: 28 bases
+Sequence S3 length: 40 bases
+Sequences total length: 68 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: GCTTCGGGCCGTGCTTGTAA
+LCS length: 20 bases
+Total # Comparisons: 2235
+Time Elapsed: 2047 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S2: GTC GTT CGG AAT GCC GTT GCT CTG TAA A
+Sequence S4: CTT GCT TAA ATG TGC A
+Sequence S2 length: 28 bases
+Sequence S4 length: 16 bases
+Sequences total length: 44 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: GCTTAATGTGCA
+LCS length: 12 bases
+Total # Comparisons: 837
+Time Elapsed: 830 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Sequence S3: ATT GCA TTG CAT GGG CGC GAT GCA TTT GGT TAA TTC CTC G
+Sequence S4: CTT GCT TAA ATG TGC A
+Sequence S3 length: 40 bases
+Sequence S4 length: 16 bases
+Sequences total length: 56 bases
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Longest Common Substring: TTGCTTATGTGCA
+LCS length: 13 bases
+Total # Comparisons: 1169
+Time Elapsed: 1288 μs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
