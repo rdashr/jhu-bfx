@@ -1,0 +1,190 @@
+4 x 4 Matrix Multiplication
+Matrix A:
+ [[4 0 9 0]
+ [6 9 5 5]
+ [7 2 4 4]
+ [8 0 0 4]]
+Matrix B:
+ [[-3  2  7  7]
+ [ 3  6  6 -4]
+ [-5  7 -1  8]
+ [-4 -4  0  2]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Iterative (Ordinary) Multiplication Result:
+[[-57  71  19 100]
+ [-36  81  91  56]
+ [-51  38  57  81]
+ [-40   0  56  64]]
+Strassen Multiplication Result:
+[[-57  71  19 100]
+ [-36  81  91  56]
+ [-51  38  57  81]
+ [-40   0  56  64]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Statistics:
+Iterative - 40 μs elapsed, with 64 multiplications
+Strassen - 2548 μs elapsed, with 57 multiplications
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ERROR! Line: 11
+Matrix length must be greater than 1.
+Skipping to next matrix...
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+8 x 8 Matrix Multiplication
+Matrix A:
+ [[ 0  2 -4  1  6 -3  3 -4]
+ [ 4  7 -4 -5 -4  4 -4  9]
+ [-3  3 -2 -4  0 -4  2  4]
+ [ 8 -3  5  3  4  4  0  3]
+ [-1  3  0  4  9  5 -2 -4]
+ [-3  7 -4  8 -2  5  4 -1]
+ [ 7  8  9 -4  2 -5  5  3]
+ [ 5  2  3  0 -4 -3  6 -4]]
+Matrix B:
+ [[ 2 -1  7 -2  8  7  0 -4]
+ [ 0 -4  2 -1  3  7  7  8]
+ [-3  3 -3  3  7  8  5  5]
+ [ 2  7 -1  6  3 -2 -1 -2]
+ [-1 -4  7  8 -1  3 -3  0]
+ [-4  6  4  3  2  6  9 -2]
+ [ 1  0  4  4 -1  0  8  7]
+ [ 8  3  4  7  4  1 -1  3]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Iterative (Ordinary) Multiplication Result:
+[[ -9 -67  41  15 -50 -24 -24   9]
+ [ 66 -12  67 -30  62  76  41  21]
+ [ 42 -55   3  -3 -35 -28  -9  68]
+ [ 11  57  88  85 115 108  22 -36]
+ [-57  -1  54  74   0  59  23 -16]
+ [  0  54  15  43  -3   3 105  47]
+ [ 26 -69  68  23 126 164  91 143]
+ [ -9 -18  -2 -48  43  39  66  47]]
+Strassen Multiplication Result:
+[[ -9 -67  41  15 -50 -24 -24   9]
+ [ 66 -12  67 -30  62  76  41  21]
+ [ 42 -55   3  -3 -35 -28  -9  68]
+ [ 11  57  88  85 115 108  22 -36]
+ [-57  -1  54  74   0  59  23 -16]
+ [  0  54  15  43  -3   3 105  47]
+ [ 26 -69  68  23 126 164  91 143]
+ [ -9 -18  -2 -48  43  39  66  47]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Statistics:
+Iterative - 191 μs elapsed, with 512 multiplications
+Strassen - 9188 μs elapsed, with 400 multiplications
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ERROR! Line: 31
+Matrix length must be a power of 2.
+Skipping to next matrix...
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+4 x 4 Matrix Multiplication
+Matrix A:
+ [[-4  4  8 -4]
+ [-3  1  8  1]
+ [-1  9 -1  3]
+ [-4  4  3  7]]
+Matrix B:
+ [[ 3  6  5 -5]
+ [ 4  5 -4 -3]
+ [ 3  6 -1  4]
+ [ 4  6  5 -4]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Iterative (Ordinary) Multiplication Result:
+[[ 12  20 -64  56]
+ [ 23  41 -22  40]
+ [ 42  51 -25 -38]
+ [ 41  56  -4  -8]]
+Strassen Multiplication Result:
+[[ 12  20 -64  56]
+ [ 23  41 -22  40]
+ [ 42  51 -25 -38]
+ [ 41  56  -4  -8]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Statistics:
+Iterative - 29 μs elapsed, with 64 multiplications
+Strassen - 1119 μs elapsed, with 57 multiplications
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ERROR! Line: 56
+Matrix must not contain fractions or nonnumeric characters.
+Skipping to next matrix...
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ERROR! Line: 66
+Matrix must not contain fractions or nonnumeric characters.
+Skipping to next matrix...
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2 x 2 Matrix Multiplication
+Matrix A:
+ [[ 1  6]
+ [-5 -3]]
+Matrix B:
+ [[ 1  4]
+ [-5 -5]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Iterative (Ordinary) Multiplication Result:
+[[-29 -26]
+ [ 10  -5]]
+Strassen Multiplication Result:
+[[-29 -26]
+ [ 10  -5]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Statistics:
+Iterative - 9 μs elapsed, with 8 multiplications
+Strassen - 152 μs elapsed, with 8 multiplications
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2 x 2 Matrix Multiplication
+Matrix A:
+ [[ 6 -2]
+ [ 8  6]]
+Matrix B:
+ [[-4  2]
+ [ 4 -2]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Iterative (Ordinary) Multiplication Result:
+[[-32  16]
+ [ -8   4]]
+Strassen Multiplication Result:
+[[-32  16]
+ [ -8   4]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Statistics:
+Iterative - 9 μs elapsed, with 8 multiplications
+Strassen - 150 μs elapsed, with 8 multiplications
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ERROR! Line: 96
+Matrix must contain same numbers of rows and columns.
+Skipping to next matrix...
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ERROR! Line: 115
+Matrices must have same number of rows.
+Skipping to next matrix...
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+4 x 4 Matrix Multiplication
+Matrix A:
+ [[-5  6  3  1]
+ [ 2  0  1  1]
+ [-4  5  3  3]
+ [ 3  8  3  8]]
+Matrix B:
+ [[-1  6  0  0]
+ [-4 -2  0  2]
+ [ 2  5  8 -2]
+ [ 0  2 -5 -4]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Iterative (Ordinary) Multiplication Result:
+[[-13 -25  19   2]
+ [  0  19   3  -6]
+ [-10 -13   9  -8]
+ [-29  33 -16 -22]]
+Strassen Multiplication Result:
+[[-13 -25  19   2]
+ [  0  19   3  -6]
+ [-10 -13   9  -8]
+ [-29  33 -16 -22]]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Statistics:
+Iterative - 29 μs elapsed, with 64 multiplications
+Strassen - 1160 μs elapsed, with 57 multiplications
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ERROR! Line: 134
+Matrices must have same number of rows.
+Skipping to next matrix...
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
